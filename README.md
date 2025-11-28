@@ -10,15 +10,13 @@ To design and test the performance of integrator and differentiator circuits usi
 or is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-<img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" />
+
 
 ![WhatsApp Image 2025-11-28 at 2 18 12 PM](https://github.com/user-attachments/assets/0b927f4c-261f-4a66-96a7-0a98f755597c)
 
 
 ## MODEL GRAPH
-<img width="556" height="380" alt="image" src="https://github.com/user-attachments/assets/caa7461c-69f7-4636-8e31-eea6db6efbb5" />
 
-<img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/d8d3e586-8e58-47ba-baae-2794c7955d51" />
 
 ![WhatsApp Image 2025-11-28 at 2 19 31 PM](https://github.com/user-attachments/assets/d290967f-c590-45f5-a090-e12d48e119f8)
 
