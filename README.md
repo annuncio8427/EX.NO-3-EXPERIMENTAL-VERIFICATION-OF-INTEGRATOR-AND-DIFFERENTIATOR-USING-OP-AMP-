@@ -32,7 +32,10 @@ We get , R1 =	and hence Rf =
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
 ![WhatsApp Image 2025-11-28 at 2 23 32 PM](https://github.com/user-attachments/assets/bab973f4-9396-48c7-abaf-ac02c17a5bd7)
-![WhatsApp Image 2025-11-28 at 2 26 03 PM](https://github.com/user-attachments/assets/bc033ead-9ac4-42a5-98b5-e56ce7e177df)
+
+![WhatsApp Image 2025-11-28 at 6 12 04 PM](https://github.com/user-attachments/assets/2cdcb49c-b77a-4790-b8ae-ba15af34980b)
+
+
 
 ---
 **DATE:**  
@@ -40,7 +43,6 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
 
 ![WhatsApp Image 2025-11-28 at 2 29 29 PM](https://github.com/user-attachments/assets/13a1934a-edba-4cbc-b878-45d0957cb6b0)
 
@@ -63,7 +65,8 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-28 at 2 30 16 PM](https://github.com/user-attachments/assets/e800a411-9478-4703-9332-43d683bac9b6)
+![WhatsApp Image 2025-11-28 at 6 05 15 PM](https://github.com/user-attachments/assets/71c651c0-449a-4248-b53c-7a6435ac1b6f)
+
 
 ---
 
